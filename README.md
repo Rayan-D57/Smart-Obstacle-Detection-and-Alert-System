@@ -95,10 +95,23 @@ The ultrasonic sensor continuously measures the distance to the nearest object. 
 
 ---
 
-# Tinkercad Circuit
+# Project Images
 
-Add your Tinkercad circuit screenshot here.
-![Tinkercad Circuit](images/tinkercad_connection.png)
+## Front View
+
+<img width="1280" height="960" alt="Front" src="https://github.com/user-attachments/assets/e883d404-c265-489d-ad12-3c0e3aaefd9d" />
+
+---
+
+## Side View
+
+<img width="1280" height="960" alt="side" src="https://github.com/user-attachments/assets/ca7e2c68-de12-44ea-88a2-09ca3fba4bd8" />
+
+---
+
+## Top View
+
+<img width="1280" height="960" alt="Top" src="https://github.com/user-attachments/assets/790bf311-6a23-4860-8f39-5a874399dde5" />
 
 ---
 
